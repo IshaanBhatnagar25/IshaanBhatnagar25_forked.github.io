@@ -6,6 +6,7 @@ url:                 https://ishaanbhatnagar25.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+relative_permalinks: false
 
 # About/contact
 author:
