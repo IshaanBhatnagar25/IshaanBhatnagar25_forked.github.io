@@ -1,4 +1,4 @@
-## Jekyll source for [ishaanbhatnagar25.github.io](https://ishaanbhatnagar25.github.io/)<br/><br/>
+## Source for [ishaanbhatnagar25.github.io](https://ishaanbhatnagar25.github.io/)<br/><br/>
 Read more here: [GitHub User Pages](https://help.github.com/articles/user-organization-and-project-pages).<br/>
 
 ## License<br/>
